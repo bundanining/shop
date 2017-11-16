@@ -11,9 +11,9 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "http://127.0.0.1/LcnCart/admin/";
+$config['base_url']	= "http://127.0.0.1/shop/admin/";
 
-$config['front_url']	= "http://127.0.0.1/LcnCart/"; //前台
+$config['front_url']	= "http://127.0.0.1/shop/"; //前台
 /*
 |--------------------------------------------------------------------------
 | Index File
